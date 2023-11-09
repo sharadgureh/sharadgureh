@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharadgureh&label=Profile%20views&color=0e75b6&style=flat" alt="sharadgureh" /> </p>
 
-- 🌱 I’m currently learning **React (framework) and Tailwaind Css **
+- 🌱 I’m currently learning **React (framework) and Tailwaind Css**
 
 - 👯 I’m looking to collaborate on **Full stack development projects**
 
