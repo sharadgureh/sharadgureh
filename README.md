@@ -31,6 +31,7 @@
 - ⚡ Fun fact **I hold the belief that there is an ever-present opportunity for enhancement and growth.**
 
 :smirk:  If at first you don’t succeed; call it version 1.0*
+<br>
 <img src="https://media3.giphy.com/media/YTzh3zw4mj1XpjjiIb/giphy.gif?cid=ecf05e47icgoraoa97oq2kvgw765rzfew3k8brdcd214boco&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='300'>
 
 <h3 align="left">Connect with me:</h3>
