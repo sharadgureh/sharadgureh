@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sharadkumar1212/](https://www.linkedin.com/in/sharadkumar1212/)
 
-- 💬 Ask me about **Data Structures, Programming conecpts and projects**
+- 💬 Ask me about **MERN, Programming conecpts and projects**
 
 - 📫 How to reach me **sharadgureh1212@gmail.com**
 
