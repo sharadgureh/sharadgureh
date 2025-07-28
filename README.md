@@ -4,19 +4,17 @@
 <h1 align="center">Hi 👋, I'm Sharad Gureh</h1>
 <h3 align="center">🌟 Currently, I'm focusing on sharpening my skills in:
    - Web development
-   - C/C++
    - Python 🐍
    - JavaScript 💻
-   - Java ☕
-   - HTML/CSS 🌐
-   
+   - DevOps
+   - Gen AI
    </h3>
 <img align="right" alt="Coding" width="300" margin-top="30px" src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47496e1tdrjzuuscged6sdswjjdk2tf9tckcoutv5h&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharadgureh&label=Profile%20views&color=0e75b6&style=flat" alt="sharadgureh" /> </p>
 
-- 🌱 I’m currently learning **React (framework) and Tailwaind Css**
+- 🌱 I’m currently learning **DevOps and Gen AI**
 
 - 👯 I’m looking to collaborate on **Full stack development projects**
 
